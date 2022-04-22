@@ -137,6 +137,21 @@ body nav li {
     line-height: 25px;
 }
 
+/* Section 5 */
+.tf_five{
+    padding: 20% 20%;
+}
+.tf_five h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_five p {
+    font-size: 23px;
+    line-height: 23px;
+}
+
 /* Footer */
 footer{
     background-color: black;
