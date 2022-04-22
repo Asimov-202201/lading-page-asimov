@@ -2,3 +2,56 @@
 * {
     font-family: 'Montserrat', sans-serif;
 }
+
+nav{
+    background-color: black;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: white;
+}
+.navbar-brand:hover{
+    color: grey;
+}
+body nav li {
+    font-weight: bold;
+    padding-left: 15px; padding-right: 15px;
+    color: white;
+}
+
+/* Website Body */
+.col-md-6 {
+    display: grid;
+    place-items: center;
+}
+.col-xxl-3 {
+    display: grid;
+    place-items: center;
+}
+.col-xxl-6 {
+    display: grid;
+    place-items: center;
+}
+
+/* Section 1 */
+.tf_one{
+    padding: 10% 20%;
+}
+.tf_one h4 {
+    font-weight: bold;    
+}
+.tf_one h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_one p {
+    font-size: 23px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.tf_one a {
+    font-size: 25px;
+    font-weight: bold;
+}

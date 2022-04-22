@@ -1,12 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Required meta tags -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Asimov</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+    rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
+    crossorigin="anonymous">
+
+    <!-- Title -->
+    <title>Asimov Landing-Page</title>
+    <meta name="author" content="CyberSoft">
+    <meta name="description" content="Asimov Landing Page">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
+    <!-- Styles -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-md fixed-top"> 
+        <div class="container">
+            <a class="navbar-brand mb-0 h1" href="#">
+                <img src="images/graduation.png" width="30" height="30" class="d-inline-block align-center" alt="">
+                Asimov
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                    aria-label="Toggle navigation" style="border: 1px white solid;">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#users"><u>Users</u></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#plans"><u>Plans</u></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#about-us"><u>About us</u></a>
+                    </li>
+                </ul>
+                <a href="#action"><button class="btn btn-outline-primary">Go try</button></a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Website sections -->
+    <div class="container-fluid">
+        <!-- Section 1 -->
+        <div class="row">
+            <div class="col-md-6 px-0 td_one">
+                <img src="images/Free_MacBook_Pro_5.jpg" class="img-fluid" alt="...">
+            </div>                
+            <div class="col-md-6 right">
+                <figure class="tf_one">
+                    <h1 style="color: #2C53C9; text-align: left">
+                        Meet Asimov
+                    </h1>
+                    <h4 style="color: #2C53C9; text-align: left">
+                        A platform that focuses on what really matters competencies
+                    </h4>
+                    <p style="color: black; text-align: justify">
+                        The process of change that educational institutions have undergone,
+                        of providing services face-to-face to virtual, has highlighted the different
+                        problems that these have. Of which one of them and the most important, since
+                        that is where the base of educational training, is to be able to keep track of
+                        the planning processes, execution and assessment of competencies during the course
+                        of the school year both at the of initial, primary and secondary education.
+                    </p>
+                </figure>
+            </div>
+        </div>    
 </body>
 </html>
