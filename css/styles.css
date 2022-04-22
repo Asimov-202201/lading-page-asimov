@@ -152,6 +152,30 @@ body nav li {
     line-height: 23px;
 }
 
+/* Section 6*/
+.td_six {
+    padding: 0px;
+}
+
+.tf_six{
+    padding: 10% 10%;
+}
+.tf_six h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_six p {
+    font-size: 23px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.tf_six a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
 /* Footer */
 footer{
     background-color: black;
