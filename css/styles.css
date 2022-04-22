@@ -55,3 +55,53 @@ body nav li {
     font-size: 25px;
     font-weight: bold;
 }
+
+/* Section 2 */
+.tf_two{
+    padding: 10% 20%;
+}
+.tf_two h4 {
+    font-weight: bold;
+}
+.tf_two h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_two p {
+    font-size: 23px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.tf_two a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Section 3 */
+.tf_three{
+    padding: 20% 20%;
+}
+.tf_three h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 20px;
+    line-height: 65px;
+}
+.tf_three p {
+    font-size: 23px;
+    line-height: 23px;
+}
+
+.td_three {
+    padding: 8% 80px;
+}
+.td_three h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+.td_three p {
+    font-size: 22px;
+    line-height: 25px;
+}
