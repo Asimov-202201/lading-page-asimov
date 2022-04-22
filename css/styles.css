@@ -105,3 +105,34 @@ body nav li {
     font-size: 22px;
     line-height: 25px;
 }
+
+/* Section 4 */
+.tf_four{
+    padding: 20% 20%;
+}
+.tf_four h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_four p {
+    font-size: 23px;
+    line-height: 23px;
+}
+
+.td_four {
+    padding: 10% 80px;
+}
+.td_four h4 {
+    font-weight: bold;
+    font-size: 22px;
+}
+.td_four a {
+    font-size: 16px;
+}
+.td_four p {
+    margin-top: 25px;
+    font-size: 20px;
+    line-height: 25px;
+}
