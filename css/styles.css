@@ -1,0 +1,195 @@
+/* Html */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    background-color: black;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: white;
+}
+.navbar-brand:hover{
+    color: grey;
+}
+body nav li {
+    font-weight: bold;
+    padding-left: 15px; padding-right: 15px;
+    color: white;
+}
+
+/* Website Body */
+.col-md-6 {
+    display: grid;
+    place-items: center;
+}
+.col-xxl-3 {
+    display: grid;
+    place-items: center;
+}
+.col-xxl-6 {
+    display: grid;
+    place-items: center;
+}
+
+/* Section 1 */
+.tf_one{
+    padding: 10% 20%;
+}
+.tf_one h4 {
+    font-weight: bold;    
+}
+.tf_one h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_one p {
+    font-size: 23px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.tf_one a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Section 2 */
+.tf_two{
+    padding: 10% 20%;
+}
+.tf_two h4 {
+    font-weight: bold;
+}
+.tf_two h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_two p {
+    font-size: 23px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.tf_two a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Section 3 */
+.tf_three{
+    padding: 20% 20%;
+}
+.tf_three h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 20px;
+    line-height: 65px;
+}
+.tf_three p {
+    font-size: 23px;
+    line-height: 23px;
+}
+
+.td_three {
+    padding: 8% 80px;
+}
+.td_three h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+.td_three p {
+    font-size: 22px;
+    line-height: 25px;
+}
+
+/* Section 4 */
+.tf_four{
+    padding: 20% 20%;
+}
+.tf_four h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_four p {
+    font-size: 23px;
+    line-height: 23px;
+}
+
+.td_four {
+    padding: 10% 80px;
+}
+.td_four h4 {
+    font-weight: bold;
+    font-size: 22px;
+}
+.td_four a {
+    font-size: 16px;
+}
+.td_four p {
+    margin-top: 25px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+/* Section 5 */
+.tf_five{
+    padding: 20% 20%;
+}
+.tf_five h1 {
+    font-weight: bold;
+    font-size: 65px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_five p {
+    font-size: 23px;
+    line-height: 23px;
+}
+
+/* Section 6*/
+.td_six {
+    padding: 0px;
+}
+
+.tf_six{
+    padding: 10% 10%;
+}
+.tf_six h1 {
+    font-weight: bold;
+    font-size: 70px;
+    padding-right: 5px;
+    line-height: 65px;
+}
+.tf_six p {
+    font-size: 23px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.tf_six a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Footer */
+footer{
+    background-color: black;
+}
+footer p{
+    color: white;
+}
+footer ul li {
+    font-weight: bold;
+    padding-left: 15px; padding-right: 15px;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover{
+    color: grey;
+}
