@@ -136,3 +136,21 @@ body nav li {
     font-size: 20px;
     line-height: 25px;
 }
+
+/* Footer */
+footer{
+    background-color: black;
+}
+footer p{
+    color: white;
+}
+footer ul li {
+    font-weight: bold;
+    padding-left: 15px; padding-right: 15px;
+}
+.nav-link {
+    color: white;
+}
+.nav-link:hover{
+    color: grey;
+}
