@@ -12,4 +12,6 @@ This repository contains the landing page for the asimov project
 * José Rodrigo Lopez Flores - U201910421
 
 ## Documentation
-* version 0.0.1 - 22/04/2022
+* version 0.0.3 - 22/04/2022
+
+See [Landing Page deployed](https://asimov-202201.github.io/lading-page-asimov/).
